@@ -1,9 +1,9 @@
 # Black Cow
 ## 기획의도
-![slide1](./images/스크린샷 2021-11-02 오전 9.30.14.png)
-![slide2](./images/스크린샷 2021-11-02 오전 9.30.30.png)
-![slide3](./images/스크린샷 2021-11-02 오전 9.30.39.png)
-![slide4](./images/스크린샷 2021-11-02 오전 9.30.47.png)
+![slide1](./images/1.png)
+![slide2](./images/2.png)
+![slide3](./images/3.png)
+![slide4](./images/4.png)
 
 - 중고 시장 활성화
 - 다양한 중고 플랫폼
