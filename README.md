@@ -20,7 +20,7 @@
 - A)좋아요 누른 아이템 보여주기
 ## API
 ### 상품 관련 정보 얻어오기 
-- url: /product
+- url: /products
 - method: POST
 - data: user_query
 - response:
